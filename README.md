@@ -2,6 +2,7 @@
 建议搭配SHUD使用
 
 
-
-*现在正在计划制作一体化HUD
-如需要使用一体HUD请前往 https://github.com/BottleYuanJun/GZPHUD
+HUD现已暂时停止更新
+目前正在开发GZPHUD软件
+如需使用最新版请打开这个链接
+https://github.com/BottleYuanJun/GZPHUD
